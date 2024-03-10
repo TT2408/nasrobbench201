@@ -5,7 +5,7 @@ Code for the ICLR'24 paper called "[Robust NAS benchmark under adversarial train
 
  In this project, we will build an adversarially trained NAS benchmark called NAS-RobBench-201 that includes the training result of 6466 network architectures in the NAS-Bench-201 search space. 
  
- Specifically, NAS-BENCH-201 search space consists of 15625 architectures while only 6466 architectures are non-isomorphic. The schematic of each architecture (archidx) can be seen at our [project page](nasrobbench201.github.io).
+ Specifically, NAS-BENCH-201 search space consists of 15625 architectures while only 6466 architectures are non-isomorphic. The schematic of each architecture (archidx) can be seen at our [project page](https://tt2408.github.io/nasrobbench201hp/).
 
 The id for all 6466 non-isomorphic architectures can be found at NasBenchID_6466_idx.txt
 
